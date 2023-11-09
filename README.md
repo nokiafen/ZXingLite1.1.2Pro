@@ -1,5 +1,7 @@
 # ZXingLite
 
+## Tip : 基于1。1.2版本 修复打开page相机卡顿问题
+
 ![Image](app/src/main/ic_launcher-web.png)
 
 [![Download](https://img.shields.io/badge/download-App-blue.svg)](https://raw.githubusercontent.com/jenly1314/ZXingLite/master/app/release/app-release.apk)
